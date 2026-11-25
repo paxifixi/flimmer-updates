@@ -1,11 +1,11 @@
 {
   "apps": {
     "de.flimmer.tv": {
-      "versionCode": 54,
-      "versionName": "2.7.4",
-      "size": 9568315,
-      "sha256": "f9e82f44178d1a92a1ccfb62b81fed7ec7f09c3dc824b279ec80cd0959d0500a",
-      "url": "https://github.com/paxifixi/flimmer-updates/releases/download/app-v2.7.4/Flimmer-2.7.4.apk"
+      "versionCode": 55,
+      "versionName": "2.8.0",
+      "size": 9568319,
+      "sha256": "17eb2c25fa8f72d92d2e3a96129fe53aa4df926feaaa04e1fb738c36c7dc4e2d",
+      "url": "https://github.com/paxifixi/flimmer-updates/releases/download/app-v2.8.0/Flimmer-2.8.0.apk"
     }
   }
 }
